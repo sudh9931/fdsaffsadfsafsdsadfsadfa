@@ -10,3 +10,12 @@ except Exception as e:
     logging.critical("this is a situatoin for us ")
     logging.error(e)
     logging.exception(e)
+    dfsdfs
+    fds
+    fs
+    fds
+    fs
+    df
+    sf
+    sdf
+    dfs
