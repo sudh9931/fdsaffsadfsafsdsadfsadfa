@@ -1,0 +1,6 @@
+
+ERROR 2022-06-29 22:17:55,716 root  division by zero
+Traceback (most recent call last):
+  File "E:/pythonProject123/test3.py", line 8, in devide
+    div = a /b
+ZeroDivisionError: division by zero

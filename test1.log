@@ -1,0 +1,22 @@
+INFO:root:thsi is my very first code for logging 
+INFO:root:thsi is my very first code for logging 
+INFO:root:2
+INFO:root:thsi is my very first code for logging 
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+INFO:root:thsi is my very first code for logging 
+WARNING:root:thsi will try to load a warning message
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+INFO:root:thsi is my very first code for logging 
+WARNING:root:thsi will try to load a warning message
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+WARNING:root:this is a wartning for a user that they have found out 2 in list 
+INFO:root:thsi is my very first code for logging 
+WARNING:root:thsi will try to load a warning message
+ERROR:root:this is a error message form system 
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+WARNING:root:this is a wartning for a user that they have found out 2 in list 
+INFO:root:thsi is my very first code for logging 
+WARNING:root:thsi will try to load a warning message
+ERROR:root:this is a error message form system 
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+WARNING:root:this is a wartning for a user that they have found out 2 in list 
